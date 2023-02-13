@@ -1,22 +1,20 @@
-.wrapper {
+*{
+margin: 0;
+padding: 0;
+}
+.wpapper {
     width: 80%;
 max-width: 720px;
 }
-
-.container {
-    padding: 0;
-    margin: 0;
+header img {
+position: absolute;
+width: 1920px;
+height: 637px;
+left: 0px;
+top: -79px;
 }
 
-.logo img {
-    position: absolute;
-    width: 1920px;
-    height: 637px;
-    left: 0px;
-    top: -79px;
-}
-
-.nav {
+nav {
 box-sizing: border-box;
 position: absolute;
 width: 1772px;
@@ -28,22 +26,21 @@ border: 1px solid #FFD000;
 border-radius: 15px;
 }
 
-.glav{
-    position: absolute;
-    width: 94px;
-    height: 55px;
-    left: 589px;
-    top: 6px;
-    font-family: 'Alumni Sans';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 36px;
-    line-height: 43px;
-    
-    color: #FFD600;
+.main {
+position: absolute;
+width: 94px;
+height: 55px;
+left: 589px;
+top: 6px;
+font-family: 'Alumni Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 43px;
+color: #FFD600;
 }
 
-.about  {
+.about {
 position: absolute;
 width: 103px;
 height: 55px;
@@ -114,19 +111,17 @@ color: #000000;
 }
 
 .text2 {
-    position: absolute;
-    width: 562px;
-    height: 287px;
-    left: 252px;
-    top: 960px;
-    
-    font-family: 'Alumni Sans';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 33px;
-    line-height: 40px;
-    
-    color: #000000;
+position: absolute;
+width: 562px;
+height: 287px;
+left: 252px;
+top: 960px;
+font-family: 'Alumni Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 33px;
+line-height: 40px;
+color: #000000;
 }
 
 .text3 {
@@ -142,6 +137,7 @@ font-size: 33px;
 line-height: 40px;
 color: #000000;
 }
+
 .text4 {
 position: absolute;
 width: 527px;
@@ -156,7 +152,7 @@ line-height: 40px;
 color: #000000;
 }
 
-.text5{
+.text5 {
 position: absolute;
 width: 320px;
 height: 249px;
@@ -170,16 +166,16 @@ line-height: 40px;
 color: #000000;
 }
 
-.photo1 img{
-    position: absolute;
-    width: 737px;
-    height: 486px;
-    left: 876px;
-    top: 742px;
-    border-radius: 30px 0px;
+.photo1 img {
+position: absolute;
+width: 737px;
+height: 486px;
+left: 876px;
+top: 742px;
+border-radius: 30px 0px;
 }
 
-.photo1 .Rectangle_1{
+.photo1 .Rectangle_1 {
 box-sizing: border-box;
 position: absolute;
 width: 654px;
@@ -190,7 +186,8 @@ background: #FFFFFF;
 border: 1px solid #FFD600;
 border-radius: 1px;
 }
-.photo1 .Rectangle_2{
+
+.photo1 .Rectangle_2 {
 box-sizing: border-box;
 position: absolute;
 width: 262px;
@@ -245,7 +242,7 @@ background: #FFFFFF;
 border: 1px solid #FFD600;
 }
 
-.photo3 .coat{
+.photo3 .coat {
 position: absolute;
 width: 163px;
 height: 208px;
@@ -284,7 +281,7 @@ background: #FFFFFF;
 border: 1px solid #FFD600;
 }
 
-.bottom{
+footer {
 position: absolute;
 width: 1920px;
 height: 180px;
