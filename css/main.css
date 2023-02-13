@@ -1,0 +1,291 @@
+
+
+.container {
+    padding: 0;
+    margin: 0;
+}
+
+.logo img {
+    position: absolute;
+    width: 1920px;
+    height: 637px;
+    left: 0px;
+    top: -79px;
+}
+
+.nav {
+box-sizing: border-box;
+position: absolute;
+width: 1772px;
+height: 55px;
+left: 74px;
+top: 570px;
+background: #FFFFFF;
+border: 1px solid #FFD000;
+border-radius: 15px;
+}
+
+.glav{
+    position: absolute;
+    width: 94px;
+    height: 55px;
+    left: 589px;
+    top: 6px;
+    font-family: 'Alumni Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 43px;
+    
+    color: #FFD600;
+}
+
+.about  {
+position: absolute;
+width: 103px;
+height: 55px;
+left: 716px;
+top: 6px;
+font-family: 'Alumni Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 43px;
+color: #000000;
+}
+
+.history {
+position: absolute;
+width: 92px;
+height: 55px;
+left: 852px;
+top: 6px;
+font-family: 'Alumni Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 43px;
+color: #000000;
+}
+
+.archive {
+position: absolute;
+width: 65px;
+height: 55px;
+left: 977px;
+top: 6px;
+font-family: 'Alumni Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 43px;
+color: #000000;
+}
+
+.contacts {
+position: absolute;
+width: 108px;
+height: 55px;
+left: 1075px;
+top: 6px;
+font-family: 'Alumni Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 43px;
+color: #000000;
+}
+
+.text1 {
+position: absolute;
+width: 562px;
+height: 211px;
+left: 252px;
+top: 742px;
+font-family: 'Alumni Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 33px;
+line-height: 40px;
+color: #000000;
+}
+
+.text2 {
+    position: absolute;
+    width: 562px;
+    height: 287px;
+    left: 252px;
+    top: 960px;
+    
+    font-family: 'Alumni Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 40px;
+    
+    color: #000000;
+}
+
+.text3 {
+position: absolute;
+width: 528px;
+height: 249px;
+left: 950px;
+top: 1420px;
+font-family: 'Alumni Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 33px;
+line-height: 40px;
+color: #000000;
+}
+.text4 {
+position: absolute;
+width: 527px;
+height: 249px;
+left: 262px;
+top: 1962px;
+font-family: 'Alumni Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 33px;
+line-height: 40px;
+color: #000000;
+}
+
+.text5{
+position: absolute;
+width: 320px;
+height: 249px;
+left: 1253px;
+top: 2569px;
+font-family: 'Alumni Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 33px;
+line-height: 40px;
+color: #000000;
+}
+
+.photo1 img{
+    position: absolute;
+    width: 737px;
+    height: 486px;
+    left: 876px;
+    top: 742px;
+    border-radius: 30px 0px;
+}
+
+.photo1 .Rectangle_1{
+box-sizing: border-box;
+position: absolute;
+width: 654px;
+height: 113px;
+left: 854px;
+top: 1136px;
+background: #FFFFFF;
+border: 1px solid #FFD600;
+border-radius: 1px;
+}
+.photo1 .Rectangle_2{
+box-sizing: border-box;
+position: absolute;
+width: 262px;
+height: 157px;
+left: 1377px;
+top: 715px;
+background: #FFFFFF;
+border: 1px solid #FFD600;
+}
+
+.photo2 img {
+position: absolute;
+width: 432px;
+height: 432px;
+left: 262px;
+top: 1328px;
+background: url(Palace_of_the_Bobrinsky_family.jpg);
+border-radius: 265px;
+}
+
+.photo2 .Rectangle_3 {
+box-sizing: border-box;
+position: absolute;
+width: 433px;
+height: 432px;
+left: 405px;
+top: 1328px;
+background: #FFFFFF;
+border: 1px solid #FFD600;
+border-radius: 50%;
+}
+
+.photo3 .Rectangle_4 {
+box-sizing: border-box;
+position: absolute;
+width: 714px;
+height: 292px;
+left: 907px;
+top: 1949px;
+background: #FFFFFF;
+border: 1px solid #FFD600;
+}
+
+.photo3 .Rectangle_5 {
+box-sizing: border-box;
+position: absolute;
+width: 714px;
+height: 292px;
+left: 944px;
+top: 1904px;
+background: #FFFFFF;
+border: 1px solid #FFD600;
+}
+
+.photo3 .coat{
+position: absolute;
+width: 163px;
+height: 208px;
+left: 1051px;
+top: 1949px;
+}
+
+.photo3 .flag {
+box-sizing: border-box;
+position: absolute;
+width: 304px;
+height: 203px;
+left: 1281px;
+top: 1949px;
+border: 1px solid #009F3C;
+}
+
+.map img {
+box-sizing: border-box;
+position: absolute;
+width: 909px;
+height: 544px;
+left: 262px;
+top: 2382px;
+border: 1px solid #FFD600;
+}
+
+.map .Rectangle_6{
+box-sizing: border-box;
+position: absolute;
+width: 714px;
+height: 278px;
+left: 230px;
+top: 2679px;
+background: #FFFFFF;
+border: 1px solid #FFD600;
+}
+
+.bottom{
+position: absolute;
+width: 1920px;
+height: 180px;
+left: 0px;
+top: 3206px;
+background: #FFF3B3;
+}
