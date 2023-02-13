@@ -1,4 +1,7 @@
-
+.wrapper {
+    width: 80%;
+max-width: 720px;
+}
 
 .container {
     padding: 0;
